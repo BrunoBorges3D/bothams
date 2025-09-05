@@ -11,4 +11,4 @@ def load_cogs():
 
 load_cogs()
 
-bot.run("MTMyNzI1OTE0NzIwODc1NzI4OA.GDyTSj.k1NBlst6gadubnfbiTYWvIYTxvcJMZQJAFQ8FM")
+bot.run("env")
