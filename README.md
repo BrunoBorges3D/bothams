@@ -36,7 +36,6 @@ A Py-cord Cog (Gear) well maintained to mange the "Temporary Voice Channels" on 
 <br>
 <center>
 
-  <img src="https://tryitands.ee/tias_thumb.jpg" width="780" height="438">
 
 </center>
 </details>
